@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on  <br>Full-stack projects<br><br>👯 I’m looking to collaborate on  <br>Full-stack applications, AI/ML projects, and API-driven systems<br><br>🤝 I’m looking for help with  <br>Improving system design, scalable backend architecture, and DevOps practices<br><br>🌱 I’m currently learning  <br>GCP and advanced backend development<br><br>💬 Ask me about  <br>React, API integration, frontend development, and hackathon projects<br><br>⚡ Fun fact  <br>I love solving logical problems and building under pressure 🚀
+🔭 I’m currently working on  <br>Building scalable full-stack applications with clean architecture<br><br>👯 I’m looking to collaborate on  <br>Full-stack applications, AI/ML projects, and API-driven systems<br><br>🤝 I’m looking for help with  <br>Improving system design, scalable backend architecture, and DevOps practices<br><br>🌱 I’m currently learning  <br>GCP and advanced backend development<br><br>💬 Ask me about  <br>React, API integration, frontend development, and hackathon projects<br><br>⚡ Fun fact  <br>I love solving logical problems and building under pressure 🚀
 
 
 ## 🌐 Socials:
